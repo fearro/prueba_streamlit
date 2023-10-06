@@ -2,4 +2,4 @@
 
 import streamlit as st
 
-st.write('Prueba visualizacion sensores')
+st.write('Prueba visualizacion sensores ha cambiado')
